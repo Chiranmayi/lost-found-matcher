@@ -1,37 +1,37 @@
 {
     "lost_items": [
         {
-            "id": "L101",
-            "category": "electronics",
-            "description": "black wireless earbuds",
-            "location": "metro station",
-            "date": "2026-07-07",
-            "status": "Matched"
+            "id": "L301",
+            "category": "bags",
+            "description": "blue college backpack with small front pocket",
+            "location": "library entrance",
+            "date": "2026-09-18",
+            "status": "Open"
         },
         {
-            "id": "L102",
-            "category": "electronics",
-            "description": "black wireless earpods",
-            "location": "metro station",
-            "date": "2026-10-07",
+            "id": "L302",
+            "category": "bottle",
+            "description": "silver steel water bottle",
+            "location": "computer lab",
+            "date": "2026-09-20",
             "status": "Open"
         }
     ],
     "found_items": [
         {
-            "id": "F205",
-            "category": "electronics",
-            "description": "black wireless earbuds case",
-            "location": "metro station",
-            "date": "2026-07-07",
+            "id": "F407",
+            "category": "bags",
+            "description": "blue college backpack with front pocket",
+            "location": "library entrance",
+            "date": "2026-09-18",
             "status": "Open"
         },
         {
-            "id": "F206",
-            "category": "electronics",
-            "description": "black wireless earpods case",
-            "location": "metro station",
-            "date": "2026-10-07",
+            "id": "F408",
+            "category": "bottle",
+            "description": "silver stainless steel water bottle",
+            "location": "computer lab",
+            "date": "2026-09-20",
             "status": "Open"
         }
     ]
