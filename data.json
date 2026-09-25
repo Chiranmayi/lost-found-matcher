@@ -1,0 +1,38 @@
+{
+    "lost_items": [
+        {
+            "id": "L101",
+            "category": "electronics",
+            "description": "black wireless earbuds",
+            "location": "metro station",
+            "date": "2026-07-07",
+            "status": "Matched"
+        },
+        {
+            "id": "L102",
+            "category": "electronics",
+            "description": "black wireless earpods",
+            "location": "metro station",
+            "date": "2026-10-07",
+            "status": "Open"
+        }
+    ],
+    "found_items": [
+        {
+            "id": "F205",
+            "category": "electronics",
+            "description": "black wireless earbuds case",
+            "location": "metro station",
+            "date": "2026-07-07",
+            "status": "Open"
+        },
+        {
+            "id": "F206",
+            "category": "electronics",
+            "description": "black wireless earpods case",
+            "location": "metro station",
+            "date": "2026-10-07",
+            "status": "Open"
+        }
+    ]
+}
